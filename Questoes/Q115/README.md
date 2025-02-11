@@ -23,8 +23,10 @@ Codigo de teste:
 Saída obtida:
 <br>
 
-![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q115/OutputTeste.png "SaidasObtidas")
+![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q115/assets/OutputTeste.png "SaidasObtidas")
 
+
+#### Desafio Explicação
 Para realização desta questão foi utilizado um algoritmo de programação dinâmica, onde recebemos 2 strings, e devemos calcular a quantidade de possibilidades de escrever uma string “A” com caracteres de uma string “B” de maneira ordenada. Para realizá de tal foi utilizado o conceito de uma matriz como memoization onde ao fim da operação obtemos a quantidade necessária, semelhante ao algoritmo clássico de edit string.
 <br>
 

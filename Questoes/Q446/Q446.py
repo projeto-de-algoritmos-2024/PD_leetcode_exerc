@@ -34,10 +34,10 @@ class Solution:
         return s.execute()
 
 
-nums = [2,4,6,8,10]
-s = Solution()
-print(s.numberOfArithmeticSlices(nums))
+#nums = [2,4,6,8,10]
+#s = Solution()
+#print(s.numberOfArithmeticSlices(nums))
 
-nums = [7,7,7,7,7]
-print(s.numberOfArithmeticSlices(nums))
+#nums = [7,7,7,7,7]
+#print(s.numberOfArithmeticSlices(nums))
 

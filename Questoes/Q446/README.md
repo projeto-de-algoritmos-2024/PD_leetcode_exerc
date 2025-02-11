@@ -32,8 +32,9 @@ Codigo de teste:
 Saída obtida:
 <br>
 
-![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q446/OutputTeste.png "SaidasObtidas")
+![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q446/assets/OutputTeste.png "SaidasObtidas")
 
+#### Desafio e Explicação
 Para realização desta questão foi utilizado um algoritmo de programação dinâmica, onde recebemos um array de inteiros, e devemos calcular a quantidade de combinações possíveis que atenda ao critério de uma subsequência de tamanho no mínimo 3, com diferença x entre cada elemento da sequência. Para realizá de tal foi utilizado o conceito de array de dicionários como memoization onde ao fim de cada operação de comparações obtemos um possível elemento de uma sequência, semelhante ao algoritmo clássico maior subsequência.
 <br>
 
