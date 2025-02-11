@@ -14,14 +14,14 @@ Neste projeto de Programação dinâmica, tem se como objetivo aplicar os conhec
 ## Questões
 | Questão | Dificuldade |
 | -- | -- |
-| [115](leetcode.com/problems/distinct-subsequences/description/?envType=problem-list-v2&envId=dynamic-programming) | Difícil |
+| [115](https://leetcode.com/problems/distinct-subsequences/description/?envType=problem-list-v2&envId=dynamic-programming) | Difícil |
 | [446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envType=problem-list-v2&envId=dynamic-programming) | Difícil |
 | [53](https://leetcode.com/problems/maximum-subarray/description/?envType=problem-list-v2&envId=dynamic-programming) | Média |
 
 ### Source Codes
-- [115](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q115/Q115.py)
-- [446](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q446/Q446.py)
-- [53](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q53/Q53.py)
+- [115](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q115/115.py)
+- [446](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q446/446.py)
+- [53](https://github.com/projeto-de-algoritmos-2024/PD_leetcode_exerc/blob/master/Questoes/Q53/53.py)
 
 ## Screenshots
 ### Submit da Questão 115
