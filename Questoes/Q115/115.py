@@ -33,12 +33,21 @@ class Solution:
         e = EditStr(s,t)
         return e.executa()        
 
-#s = "rabbbit" 
-#t = "rabbit"
-#sol = Solution()
-#print(sol.numDistinct(s,t))
+s = "rabbbit" 
+t = "rabbit"
+sol = Solution()
+print(sol.numDistinct(s,t))
+s = "babgbag" 
+t = "bag"
+print(sol.numDistinct(s,t))
 
-#s = "babgbag" 
-#t = "bag"
-#print(sol.numDistinct(s,t))
 
+#    ""  r  a  b  b  i  t
+# ""  1  0  0  0  0  0  0
+#r    1  1  0  0  0  0  0
+#a    1  1  1  0  0  0  0
+#b    1  1  1  1  0  0  0
+#b    1  1  1  2  1  0  0
+#b    1  1  1  3  3  0  0
+#i    1  1  1  3  3  3  0
+#t    1  1  1  3  3  3  3

@@ -55,4 +55,6 @@ Escolha uma questão que deseja rodar ou testar no [LeetCode](https://leetcode.c
  python (Questão escolhida).py
 ```
 ## Link dos vídeos
-[PA - Programação dinâmica]()
+[PA - Programação dinâmica - 115](https://youtu.be/ENSsEmZcrAw)
+[PA - Programação dinâmica - 446](https://youtu.be/21Iq0wu8zf8)
+[PA - Programação dinâmica - 53](https://youtu.be/27YNCaLBqF0)

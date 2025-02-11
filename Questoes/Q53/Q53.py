@@ -22,12 +22,12 @@ class Solution:
         s = MaxSomaSub(nums)
         return s.calcMaxSun()
 
-nums = [-2,1,-3,4,-1,2,1,-5,4]
-s = Solution()
-print(s.maxSubArray(nums))
+#nums = [-2,1,-3,4,-1,2,1,-5,4]
+#s = Solution()
+#print(s.maxSubArray(nums))
 
-nums = [1]
-print(s.maxSubArray(nums))
+#nums = [1]
+#print(s.maxSubArray(nums))
 
-nums = [5,4,-1,7,8]
-print(s.maxSubArray(nums))
+#nums = [5,4,-1,7,8]
+#print(s.maxSubArray(nums))
